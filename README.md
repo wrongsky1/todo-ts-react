@@ -1,3 +1,11 @@
+
+# Практика по TypeScript+React простая тудушка.
+
+Todo с возможностью добавления, удаления и изменения статуса.
+практическая работа по TS (основы типизации)
+
+________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
